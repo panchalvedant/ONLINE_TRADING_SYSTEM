@@ -1,0 +1,58 @@
+* {
+    
+    font-family: "Jost", sans-serif;
+    
+  }
+ 
+  button.w {
+      padding:3px;
+      color:rgb(160, 192, 168);
+      background-color:rgb(224, 119, 119);
+      width:50%;
+      border-radius:9px;
+      
+  }
+  button.w1 {
+    padding:3px;
+    color:rgb(201, 207, 188);
+    background-color:rgb(61, 177, 26);
+    width:50%;
+    border-radius:9px;
+    
+}
+button.w3 {
+  padding:3px;
+  color:rgb(0, 0, 0);
+  background-color:rgba(241, 55, 55, 0.774);
+  width:50%;
+  border-radius:9px;
+  
+}
+  button:hover{
+      background-color:rgb(200, 240, 243);
+      color: black;
+  }
+  .price{
+    margin-left: 60px;
+    float:left;
+    color:rgb(109, 204, 221);
+   
+   
+  }
+
+  .tech{ 
+
+
+   
+    float:right;
+    color:rgb(235, 161, 204);
+
+    margin-right: 60px;
+  
+  }
+  .infoC{
+    
+    
+    color:rgb(161, 235, 192);
+   
+  }

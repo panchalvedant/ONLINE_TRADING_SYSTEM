@@ -1,0 +1,25 @@
+{
+  "portfolio": [
+    {
+      "name": "TSLA",
+      "price": 784.7962,
+      "count": 10,
+      "priceChange": 4.206199999999967,
+      "id": 8
+    },
+    {
+      "name": "FB",
+      "price": 328.58,
+      "count": 10,
+      "priceChange": -4.3799999999999955,
+      "id": 10
+    },
+    {
+      "name": "TSLA",
+      "price": 784.7962,
+      "count": 8,
+      "priceChange": 4.206199999999967,
+      "id": 11
+    }
+  ]
+}

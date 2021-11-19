@@ -1,0 +1,48 @@
+{
+  "watchlist": [
+    {
+      "name": "TSLA",
+      "price": 784.7962,
+      "close": 780.59,
+      "high": 797.31,
+      "low": 774.2,
+      "marketcap": 785.2455,
+      "volume": 18432625,
+      "priceChange": 4.206199999999967,
+      "id": 5
+    },
+    {
+      "name": "FB",
+      "price": 328.58,
+      "close": 332.96,
+      "high": 335.18,
+      "low": 326.1638,
+      "marketcap": 331.9633,
+      "volume": 35377947,
+      "priceChange": -4.3799999999999955,
+      "id": 7
+    },
+    {
+      "name": "IBM",
+      "price": 144.75,
+      "close": 143.15,
+      "high": 145,
+      "low": 142.64,
+      "marketcap": 143.7993,
+      "volume": 6976648,
+      "priceChange": 1.5999999999999943,
+      "id": 8
+    },
+    {
+      "name": "CEE",
+      "price": 29.48,
+      "close": 29.65,
+      "high": 29.7,
+      "low": 29.48,
+      "marketcap": 29.6294,
+      "volume": 16233,
+      "priceChange": -0.16999999999999815,
+      "id": 9
+    }
+  ]
+}
